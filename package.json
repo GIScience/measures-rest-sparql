@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "install": "pip3 install rdflib",
+    "install": "pip3 install html5lib rdflib",
     "start": "./endpoint.py"
   }
 }
