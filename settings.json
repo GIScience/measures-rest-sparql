@@ -1,3 +1,4 @@
 {
-  "repositoryUrl": "http://localhost:3000/repository"
+  "repositoryUrl": "http://localhost:3000/repository",
+  "port": 8000
 }

@@ -76,7 +76,7 @@ def runEndpoint(g):
             self._perform_sparql(data)
 
     # start the server
-    server_address = ('', 8000)
+    server_address = ('', settings.port)
     httpd = HTTPServer(server_address, RequestHandler)
     httpd.serve_forever()
 

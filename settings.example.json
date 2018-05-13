@@ -1,3 +1,4 @@
 {
-  "repositoryUrl": "https://osm-measure.geog.uni-heidelberg.de"
+  "repositoryUrl": "https://osm-measure.geog.uni-heidelberg.de",
+  "port": 88000
 }
