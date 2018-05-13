@@ -1,5 +1,4 @@
 apps:
   - name: measures-rest-sparql
-    cwd: ./backend
     script: npm
     args: start
